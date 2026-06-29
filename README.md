@@ -1,16 +1,36 @@
-## Hi there 👋
+# Eli Rucker
 
-<!--
-**elijrucker/elijrucker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Quereinsteiger | CS Student
 
-Here are some ideas to get you started:
+A career transitioner from data analysis into software development, with a practical
+understanding of how software breaks — and what it takes to build it better.
+Currently based in Berlin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Stack
+
+**Languages:** JavaScript, Python, SQL, Java, C#, Bash  
+**Infrastructure:** Linux Server, Docker, Tailscale, SSH, Caddy  
+**Cloud:** AWS (Lambda, API Gateway, CloudWatch)  
+**Tools:** Git, Jira, REST APIs  
+
+---
+
+## Currently
+
+- Pursuing a Computer Science degree (4.0 GPA, Dean's List)
+- Working toward AWS Certified Developer Associate
+- Building independently: [goal-tracking](https://github.com/elijrucker/goal-tracking) · [homeserver-ejr](https://github.com/elijrucker/homeserver-ejr)
+
+---
+
+## German | Deutsch
+
+Goethe-Zertifikat C1 — professionally functional in German.  
+Currently working toward the Goethe-Zertifikat C2 (GDS) as the next milestone.  
+Mein LinkedIn-Profil ist auch auf Deutsch verfügbar.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/elijrucker) · [Email](mailto:eli.j.rucker@gmail.com)
