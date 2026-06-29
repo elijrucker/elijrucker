@@ -19,8 +19,8 @@ Currently based in Berlin.
 
 ## Currently
 
-- Pursuing a Computer Science degree (4.0 GPA, Dean's List)
 - Working toward AWS Certified Developer Associate
+- Completing an online Computer Science degree (4.0 GPA, Dean's List)
 - Building independently: [goal-tracking](https://github.com/elijrucker/goal-tracking) · [homeserver-ejr](https://github.com/elijrucker/homeserver-ejr)
 
 ---
