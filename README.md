@@ -1,6 +1,6 @@
 # Eli Rucker
 
-Software Developer | Quereinsteiger | CS Student
+Software Developer | Quereinsteiger
 
 A career transitioner from data analysis into software development, with a practical
 understanding of how software breaks — and what it takes to build it better.
