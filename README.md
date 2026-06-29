@@ -29,7 +29,7 @@ Currently based in Berlin.
 
 Goethe-Zertifikat C1 — professionally functional in German.  
 Currently working toward the Goethe-Zertifikat C2 (GDS) as the next milestone.  
-Mein LinkedIn-Profil ist auch auf Deutsch verfügbar.
+[Mein LinkedIn-Profil ist auch auf Deutsch verfügbar.](https://www.linkedin.com/in/elijrucker/?locale=de_DE)
 
 ---
 
